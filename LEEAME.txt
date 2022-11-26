@@ -1,0 +1,8 @@
+Buen dia profesor.
+Mi sección es "E2QN" es lo que aparece en mi matricula, pero en el blackboard me aparece "T2QN"
+
+Trabaje el examen en el IDE de WebStorm, en caso no
+pueda correrlo en Visual Estudio puede ir a mi repositorio
+de GitHub, ahí lo subí también.
+
+GitHub: https://github.com/andergp34/CL3-DEW.git
