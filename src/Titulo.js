@@ -19,7 +19,7 @@ class Titulo extends React.Component{
     }
     state={texto:null}
     render(){
-        setTimeout(()=>{this.setState({texto:colorear()})},1000)
+        setTimeout(()=>{this.setState({texto:colorear()})},3000)
         return(
             <div className="Titulo">
                 <h1 id="title">{this.state.texto}</h1>
