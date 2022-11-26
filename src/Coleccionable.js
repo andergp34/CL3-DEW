@@ -25,16 +25,6 @@ class Coleccionable extends React.Component{
         e.target.setAttribute('style',
             'width:94%; height: 250px; padding:3%; border-radius:150px; border: 0.5px solid; background-color: blue; transition:all 1s',coleccion[i])
     }
-    //
-    // over=(e,Event)=>{
-    //     let i=e.target.getAttribute('data-i');
-    //     e.target.setAttribute('src',imagenes1[i]);
-    // }
-    // out=(e,Event)=>{
-    //     let i=e.target.getAttribute('data-i');
-    //     e.target.setAttribute('src',imagenes[i]);
-    // }
-
     render(){
         return(
             <div className="Coleccionable">
